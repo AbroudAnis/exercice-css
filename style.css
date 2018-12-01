@@ -1,0 +1,25 @@
+.box1 {
+background-image: url("img.jpg") ;
+height: 150px;
+margin: auto ;
+padding: 30px
+}
+.box2{
+height: 100px;
+
+padding: 40px ;
+}
+span.a {
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    background-color: whitesmoke;
+    border: 5px solid white;
+}span.b {
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    background-color: grey;
+    border: 5px solid white;
+}
+    
